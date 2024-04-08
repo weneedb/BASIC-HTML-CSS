@@ -1,0 +1,31 @@
+.title {
+    font-size: 50px;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.name {
+    width: 400;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #666;
+    text-align: right
+}
+
+.contents {
+    font-size: 20px;
+    line-height: 1.8;
+    text-align: center;
+}
+
+.contents p {
+    margin: 40 0;
+    padding: 20 0;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
