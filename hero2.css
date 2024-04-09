@@ -14,21 +14,31 @@ body {
 }
 
 .header {
-
+    border-bottom: 1px solid #ccc;
 }
 
 .header.nav .menu {
     display: flex;
 }
 
-.header.nav.menu {
-    margin-left: 50;
+.header .nav. .menu li {
+    margin-right: 50;
+}
+
+.header .nav .bottom {
+    height: 46;
+    width: 100;
+    background-color: #444;
+    color: #fff;
+    border: none;
+    border-radius: 46;
 }
 
 header .nav. .logo {
     display: flex;
     align-items: center;
     margin-left: auto;
+    gap: 10px;
 }
 
 
@@ -45,11 +55,21 @@ header .nav. .logo {
 }
 
 .hero .contents {
-
+    width: 120;
+    margin: 0 auto;
+    background-color: #ddd;
 }
 
 .hero .contents .top {
+    display: flex;
+}
 
+.hero .contents .top .texts {
+
+}
+
+.hero .contents .top .photo img {
+    width: 560;
 }
 
 .hero .contents .bottom {
