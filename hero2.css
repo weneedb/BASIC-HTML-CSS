@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    color: #666;
+    /* font-size: 16; */
+}
+
+.header {
+
+}
+
+.header.nav .menu {
+    display: flex;
+}
+
+.header.nav.menu {
+    margin-left: 50;
+}
+
+header .nav. .logo {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+
+.header .nav {
+    width: 1200px;
+    margin: 0 auto;
+    height: 72px;
+    background-color: bisque;
+    display: flex;
+}
+
+.hero {
+    margin: 150 0;
+}
+
+.hero .contents {
+
+}
+
+.hero .contents .top {
+
+}
+
+.hero .contents .bottom {
+
+}
